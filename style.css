@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.col-xs-12 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+.about-hicube-img > img {
+    width: 270px;
+}
+.img-responsive {
+    width: 80%;
+    margin: 0 auto;
+    display: inherit;
+    max-width: 100%;
+    height: auto;
+}
+img {
+    vertical-align: middle;
+    border: 0;
+    max-width: 100%;
+    outline: none;
+    height: auto;
+}
+.about-hicube-content {
+    padding-top: 0px;
+    padding-right: 10px;
+}
+h4{
+    margin-top: 50px;
+    padding-bottom: 1.2rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h2 {
+    font-size: 30px;   
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: brown;
+    padding-top: 80px;
+    padding-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h4 {
+    font-size: 19px;
+    text-align: left;
+    font-family: Source Sans Pro;
+    font-weight: 500;
+}
+p {
+    font-size: 17px;
+    margin-top: 25px;
+    padding-bottom: 10px;
+    font-family: Source Sans Pro;
+    text-align: justify;
+    margin: 10  20px 20;
+    line-height: 20px;
+   
+}
+
+.button-2 {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.container{
+    background-image: url(../image/cyber-securiti-sollution-backgrouund.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-bottom: 2px solid #f9462f;
+    max-width: 740px;
+    padding-bottom: 50px;
+    max-width: 100%;
+}
+
+h3{
+    font-size: 30px;   
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-weight: 400;
+    color: rgb(252, 249, 249);
+    padding-top: 80px;
+    padding-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    
+}
+h6{
+    color: rgb(252, 249, 249);
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+.second-container{
+    background-image: url(../image/discover-training-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    border-bottom: 2px solid #f9462f;
+}
+h5{
+    margin-top: 15px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+h1{
+    text-align: center; 
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.img-responsive {
+    display: inherit;
+    max-width: 50%;
+    height: auto;
+    vertical-align: middle;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    outline: none;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.third-card{
+    background-color: aquamarine;
+}
+.third-container{
+    background-image: url(../image/clientFB-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    border-bottom: 2px solid #f9462f;
+}
+.footer-background {
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.wrap {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0px 50px;
+}
+.clearfix {
+    clear: both;
+    content: "";
+    display: table;
+}
+.row-footer {
+    width: 100%;
+    
+}
+.column-footer {
+    width: 23%;
+    float: left;
+    margin: 10px;
+}
+
+h4 {
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: rgb(7, 7, 7);
+}
+.other-links {
+    font-family: Merriweather;
+    font-size: 12px;
+    line-height: 3;
+    color: #ffffff;
+}
+.footer-logo{
+    margin-top: 70px;
+    padding-bottom: 20px;
+}
+.footer-list {
+    list-style: none;
+    padding: 0;
+    line-height: 1.5;
+    text-decoration: none;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    text-decoration: none;
+}
+.list-item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+li {
+    
+    text-align: -webkit-match-parent;
+    text-decoration: none;
+    line-height: 16px;
+    position: relative;
+}
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
